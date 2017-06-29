@@ -1,0 +1,12 @@
+{
+  "title": "Post two",
+  "date": "2017-06-12T00:00:00.000Z",
+  "bodyContent": "Checkout [github to see my other projects](github.com/bentatum)",
+  "bodyHtml": "<p>Checkout <a href=\"github.com/bentatum\">github to see my other projects</a></p>\n",
+  "preview": "Checkout github to see my other projects",
+  "dir": "content/dist/content/blog/posts/2017",
+  "base": "post-two.json",
+  "ext": ".json",
+  "sourceBase": "post-two.md",
+  "sourceExt": ".md"
+}

@@ -1,0 +1,2 @@
+
+export mapProps from './mapProps'

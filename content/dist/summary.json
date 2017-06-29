@@ -1,0 +1,28 @@
+{
+  "fileMap": {
+    "content/dist/content/blog/posts/2017/first-post.json": {
+      "title": "First post",
+      "date": "2017-06-01T00:00:00.000Z",
+      "preview": "First post!\n\nCheckout github to see my other projects",
+      "dir": "content/dist/content/blog/posts/2017",
+      "base": "first-post.json",
+      "ext": ".json",
+      "sourceBase": "first-post.md",
+      "sourceExt": ".md"
+    },
+    "content/dist/content/blog/posts/2017/post-two.json": {
+      "title": "Post two",
+      "date": "2017-06-12T00:00:00.000Z",
+      "preview": "Checkout github to see my other projects",
+      "dir": "content/dist/content/blog/posts/2017",
+      "base": "post-two.json",
+      "ext": ".json",
+      "sourceBase": "post-two.md",
+      "sourceExt": ".md"
+    }
+  },
+  "sourceFileArray": [
+    "content/blog/posts/2017/first-post.md",
+    "content/blog/posts/2017/post-two.md"
+  ]
+}

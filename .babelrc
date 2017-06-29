@@ -1,0 +1,32 @@
+{
+  "env": {
+    "development": {
+      "presets": [
+        "next/babel",
+        "stage-0"
+      ],
+      "plugins": [
+        "transform-decorators-legacy"
+      ]
+    },
+    "production": {
+      "presets": [
+        "next/babel",
+        "stage-0"
+      ],
+      "plugins": [
+        "transform-decorators-legacy"
+      ]
+    },
+    "test": {
+      "presets": [
+        ["env", { "modules": "commonjs" }],
+        "next/babel",
+        "stage-0"
+      ],
+      "plugins": [
+        "transform-decorators-legacy"
+      ]
+    }
+  }
+}
